@@ -1,0 +1,155 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.wrapper{
+  width: 100%;
+  height: 100%;
+}
+
+.line-hgt-65{
+  line-height: 65px;
+}
+
+.line-hgt-100{
+  line-height: 100px;
+}
+
+.background-white{
+  background: white;
+}
+
+.background-red{
+  background: red;
+}
+
+.backgrounf-yellow{
+  background: yellow;
+}
+
+.background-blue{
+  background: blue;
+}
+
+.height-65{
+  height: 65px;
+}
+
+.height-100{
+  height: 100px;
+}
+
+.logo{
+  display: inline-block;
+}
+
+.menu-left{
+  display: inline-block;
+}
+
+.logo img{
+  width: 170px;
+}
+
+.menu-left, .menu-right{
+  font-weight: 500;
+}
+
+.menu-left ul{
+  list-style: none;
+}
+
+.menu-left ul li{
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.menu-right ul{
+  list-style: none;
+}
+
+.menu-right ul li{
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.jumbotron{
+      background-image: url(https://www.digitalocean.com/assets/media/homepage/hero-background-c9490927.svg),linear-gradient(180deg,#303fd9 0,#031b4e);
+      background-position: bottom;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 600px;
+      padding: 70px 0;
+}
+
+.content-left-jumbotron{
+  color: white;
+}
+
+.content-right-jumbotron{
+  background: white;
+  border-radius: 10px;
+  height: 100%;
+  padding: 20px;
+
+}
+
+.content-right-jumbotron p{
+  font-size: 10px;
+}
+
+.content-right-jumbotron h2{
+  font-size: 30px;
+  color: #031b4e;
+  font-weight: 700;
+}
+
+#subtitle-h2-jumbotron-right{
+  color: #0069FE;
+}
+
+.content-right-jumbotron form input{
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  height: 40px;
+  margin-bottom: 15px;
+  border: 1px solid #f1f1f1;
+  font-size: 20px;
+  padding: 0 16px;
+}
+
+.my-btn-blue{
+  width: 100%;
+  background: #0069ff;
+  padding: 15px 0;
+  margin-bottom: 15px;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.my-btn-blue:hover{
+  background: #1634FE;
+  color: white;
+}
+
+.my-btn-white{
+  width: 100%;
+  background: white;
+  padding: 15px 0;
+  margin-bottom: 15px;
+  box-shadow: 0 0 1px rgba(0,0,0,.12), 0 1px 1px rgba(0,0,0,.24);
+  color: #757575;
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.my-btn-white:hover{
+  background: #EEEEEE;
+  color: #757575;
+}
