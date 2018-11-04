@@ -103,6 +103,8 @@
 
 .customer-text h3{
   text-transform: uppercase;
+  color: grey;
+  font-size: 15px;
 }
 
 .lista_loghi ul{
@@ -113,6 +115,11 @@
   display: inline-block;
 }
 
-.lista_loghi img{
-  width: 10%;
+.partners{
+  height: 150px;
+  line-height: 150px;
+}
+
+.img_logo img{
+  width: 70%;
 }

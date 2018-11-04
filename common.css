@@ -30,8 +30,8 @@
   height: 700px;
 }
 
-.wrapper_height_350{
-  height: 350px;
+.wrapper_height_150{
+  height: 150px;
 }
 
 .vertical_center{
@@ -40,4 +40,4 @@
   left: 50%;
   transform: translate(-50%,-50%);
   position: absolute;
-} 
+}
