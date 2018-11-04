@@ -61,3 +61,7 @@
   transform: translate(-50%,-50%);
   position: relative;
 }
+
+.inline_block{
+  display: inline-block;
+}
