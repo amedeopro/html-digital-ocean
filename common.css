@@ -1,0 +1,43 @@
+.background_red{
+  background: red;
+}
+
+.background_yellow{
+  background: yellow;
+}
+
+.background_blue{
+  background: blue;
+}
+
+.background_white{
+  background: white;
+}
+
+.background_grey{
+  background: #F3F5F9;
+}
+
+.wrapper_height_80{
+  height: 80px;
+}
+
+.wrapper_linehieght_80{
+  line-height: 80px;
+}
+
+.wrapper_height_700{
+  height: 700px;
+}
+
+.wrapper_height_350{
+  height: 350px;
+}
+
+.vertical_center{
+  content: '';
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+}
